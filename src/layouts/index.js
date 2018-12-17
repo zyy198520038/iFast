@@ -20,7 +20,7 @@ const Layout = ({ children, data }) => (
   </div>
 )
 
-Layout.propTypes = {
+Layout.propTypes = {div
   children: PropTypes.func,
 }
 
