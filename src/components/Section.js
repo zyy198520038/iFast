@@ -49,7 +49,7 @@ const Section = () => (
     <SectionGroup>
         <SectionTitle>Architecture</SectionTitle>
         <SectionRow1>
-            <HlineCard title="Price-Stable Cryptocurrencies" text="SmartCoins provide the freedom of cryptocurrency with the stability of the dollar" image={require('../images/price_stable.svg')}/>
+            <HlineCard title="Price-Stable Cryptocurrencies" text="SmartCoins provide the freedom of cryptocurrency with the stability of the dollar" image={require('../images/Price_Stable.svg')}/>
             <SectionSpace></SectionSpace>
             <HlineCard title="Decentralized Asset Exchange" text="A fast and fluid trading platform" image={require('../images/Decentralized_Asset.svg')}/>
             <HideCard><HlineCard title="Delegated Proof-of-Stake Consensus" text="A robust and flexible consensus protocol" image={require('../images/Delegated.svg')}/></HideCard>
